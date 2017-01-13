@@ -1,0 +1,15 @@
+define({
+  "name": "触手",
+  "version": "0.1.0",
+  "description": "促销员管理",
+  "title": "触手",
+  "url": "http://192.168.10.161/api",
+  "sampleUrl": false,
+  "apidoc": "0.2.0",
+  "generator": {
+    "name": "apidoc",
+    "time": "2017-01-06T08:03:36.319Z",
+    "url": "http://apidocjs.com",
+    "version": "0.16.1"
+  }
+});
