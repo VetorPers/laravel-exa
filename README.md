@@ -1,8 +1,8 @@
 # laravel-exa
-基于laravel5.3作的简单配置,适合一般app接口和后台的开发.集成了bootstrap3的后台管理模板,使用了 dingo/api ，jwt 等.
+    基于laravel5.3作的简单配置,适合一般app接口和后台的开发.集成了bootstrap3的后台管理模板,使用了 dingo/api ，jwt 等.
 
 ##Installation
-git clone https://github.com/vvXiao/laravel-exa.git
+    composer install
 
 ## USEFUL LINK
  - 全文搜索 http://laravelacademy.org/post/6426.html
